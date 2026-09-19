@@ -7,7 +7,7 @@
 
 ### Customer Transaction User Stories
 - **HLR-C-02:** As a customer, I want to register and manage my account so I can receive vehicles matching my preferences and review my past rental history.
-- **HLR-C-03:** As a customer, I want to search by key attributes — location, dates, make, model, price, and rental terms — so I can find the best fit.
+- **HLR-C-03:** As a customer, I want to search by key attributes (location, dates, make, model, price, and rental terms), so I can find the best fit.
 - **HLR-C-04:** As a customer, I want to reserve and pay for a specific vehicle after viewing the full price, including all charges, so I know what to expect.
 
 ### Partner Transaction User Stories
@@ -27,14 +27,14 @@
 ### Customer (renter)
 - **US-C-01:** As a customer, I want to search for available cars by location, dates, and budget, so I can find one that fits my trip without checking across five different sites.
 - **US-C-02:** As a customer, I want to filter by vehicle size and type, so I get a car that actually fits the number of people I'm taking and my luggage.
-- **US-C-03:** As a customer, I want to see the full price upfront — including all fees, thresholds, and amounts for cleaning/fuel — so I'm not hit with hidden charges and know my final cost at pickup.
+- **US-C-03:** As a customer, I want to see the full price upfront, including all fees, thresholds, and amounts for cleaning/fuel so I'm not hit with hidden charges and know my final cost at pickup.
 - **US-C-04:** As a customer, I want confirmation that the exact car I reserved will be there, so I'm not assigned a different vehicle at pickup.
 - **US-C-05:** As a customer, after I pay and get the car, I want to complete a vehicle condition check (exterior damage, fuel level, cleanliness) at pickup with photo documentation, so I have proof of the car's condition and can't be blamed for pre-existing issues at return.
 
 ### Partner (owner/rental provider)
 - **US-P-01:** As a partner, I want to list my available vehicles with accurate pricing, so customers can book without confusion or disputes later.
-- **US-P-02:** As a partner, I want to set availability windows per vehicle, so I avoid double-booking — the first requester is who I hold the vehicle for.
-- **US-P-03:** As a partner, I want to approve or decline booking requests, so I stay in control of my fleet's schedule.
+- **US-P-02:** As a partner, I want to set availability windows per vehicle, so I avoid double-booking — the first person that requests it is the person I hold the booking for. 
+- **US-P-03:** As a partner, I want to approve or decline booking requests, so I stay in control of my fleet's schedule. 
 - **US-P-04:** As a partner, I want to see which vehicles are currently rented out, so I can manage my inventory at a glance.
 - **US-P-05:** As a partner, I want a standardized digital inspection checklist at pickup and return, so damage and cleanliness disputes are documented objectively instead of becoming a he-said-she-said situation.
 - **US-P-06:** As a partner, I want to confirm the vehicle is clean and fully fueled before each rental starts, so I hand off a car that meets the customer's expectations from the start.
